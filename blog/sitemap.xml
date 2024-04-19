@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2024-03-29T06:52:24-00:00</lastmod>
+<lastmod>2024-04-19T05:43:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2024-03-29T06:52:24-00:00</lastmod>
+<lastmod>2024-04-19T05:43:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2024-03-29T06:52:24-00:00</lastmod>
+<lastmod>2024-04-19T05:43:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2024-03-29T06:52:24-00:00</lastmod>
+<lastmod>2024-04-19T05:43:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -34,6 +34,20 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>./pages/about/</loc>
 <lastmod>2024-02-28T10:25:46+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./2024-Spring-w8-blog-tutorial.html</loc>
+<lastmod>2024-04-19T05:42:23+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./2024-Spring-w6-blog-tutorial.html</loc>
+<lastmod>2024-04-19T05:42:28+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -109,6 +123,34 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>./category/w6.html</loc>
+<lastmod>2024-04-19T05:42:28+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./category/w8.html</loc>
+<lastmod>2024-04-19T05:42:23+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/yu-chat-gptdui-hua.html</loc>
+<lastmod>2024-04-19T05:42:23+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/geng-xin-xiao-zu-zi-mo-zu.html</loc>
+<lastmod>2024-04-19T05:42:28+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>./tag/w5-workjiao-xue-ying-pian-zheng-li.html</loc>
 <lastmod>2024-03-29T06:52:07+08:06</lastmod>
 <changefreq>daily</changefreq>
@@ -145,7 +187,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./author/41123128.html</loc>
-<lastmod>2024-03-29T06:52:07+08:06</lastmod>
+<lastmod>2024-04-19T05:42:28+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
